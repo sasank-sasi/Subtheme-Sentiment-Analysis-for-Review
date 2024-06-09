@@ -1,4 +1,4 @@
-![image](https://github.com/sasank-sasi/Subtheme-Sentiment-Analysis-for-Review/assets/125758810/04b6a67c-1d43-4ecf-93ad-54526f4b3c77)# Subtheme Sentiment Analysis
+# Subtheme Sentiment Analysis
 
 ![]([https://example.com/images/example.jpg](https://cdn.dribbble.com/users/113062/screenshots/2812589/bots.gif))
 
