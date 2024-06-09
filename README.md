@@ -1,4 +1,6 @@
-# Subtheme Sentiment Analysis
+![image](https://github.com/sasank-sasi/Subtheme-Sentiment-Analysis-for-Review/assets/125758810/04b6a67c-1d43-4ecf-93ad-54526f4b3c77)# Subtheme Sentiment Analysis
+
+![]([https://example.com/images/example.jpg](https://cdn.dribbble.com/users/113062/screenshots/2812589/bots.gif))
 
 ## Overview
 This project focuses on performing sentiment analysis on customer reviews by identifying subthemes within the reviews and determining the sentiment (positive, negative, or neutral) for each subtheme. The process involves loading and preprocessing the dataset, extracting subthemes, analyzing sentiments, and evaluating the model's performance.
